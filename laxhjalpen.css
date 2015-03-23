@@ -222,9 +222,19 @@ tr {
 	     -o-transition: background-color 2s;
 		    transition: background-color 2s;
 } 
-
-
-
+.blockslider {
+	height: 300px;
+	margin-bottom: 20px;
+}
+.nivoSlider {
+	margin: 0 auto;
+	width: 618px;
+	height: 246px;
+	border: 1px solid black;
+}
+.nivo-caption {
+	text-align: center;
+}
 
 
 
